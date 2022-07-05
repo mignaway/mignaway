@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/40722616/177396381-3c780981-1cb0-4cef-a29a-dd8ef4d7b5af.png">
 
-<!--
-**mignaway/mignaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">mignaway</h1>
 
-Here are some ideas to get you started:
+<p align="center">Hello there, i'm a 20 years old currently studying computer science at University Of Sapienza at Rome.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1 align="center">Skills</h1>
+
+Personal opinion on the level of skills I possess
+
+| Language/Field | Level |
+| --- | --- |
+| Html, Css, JS | 8/10 |
+| Python | 9/10 |
+| Java | 7/10 |
+| SQL | 6/10 |
+| Web/App Design | 7/10 |
+
+</div>
