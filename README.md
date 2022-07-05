@@ -3,7 +3,7 @@
 
 <h1 align="center">mignaway</h1>
 
-<p align="center">Hello there, i'm a 20 years old currently studying computer science at University Of Sapienza at Rome.</p>
+<p align="center">Hello there, I am a 20 y/o guy currently studying computer science at Sapienza University of Rome.</p>
 
 <div align="center">
 <h1 align="center">Skills</h1>
