@@ -1,8 +1,5 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/40722616/177396381-3c780981-1cb0-4cef-a29a-dd8ef4d7b5af.png">
-
-<h1 align="center">mignaway</h1>
-
 <p align="center">Hello there, I am a 20 y/o guy currently studying computer science at Sapienza University of Rome.</p>
 
 <div align="center">
