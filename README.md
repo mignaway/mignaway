@@ -8,9 +8,9 @@ Personal opinion on the level of skills I possess
 | Language/Field | Level |
 | --- | --- |
 | Html, Css, JS | 8/10 |
-| Python | 9/10 |
+| Python | 8/10 |
 | Java | 7/10 |
 | SQL | 6/10 |
-| Web/App Design | 7/10 |
+| Web/App Design | 8/10 |
 
 </div>
