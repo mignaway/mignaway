@@ -12,4 +12,5 @@
 <li><i><strong>Database Management & SQL</strong></i></li>
 <li>and various knowledge of programming languages like <i><strong>Python & Java</strong></i>
 </ul>
+<p>Portfolio Website: <a href="https://mignaway.github.io/portfolio">mignaway.github.io/portfolio</a></p>
 </div>
