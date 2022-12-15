@@ -7,7 +7,7 @@
 
 <ul>
 <li>Html | Css | Javascript | Jquery | Typescript | Reactjs | Node | Express | Git | SQL</li>
-<li>English | Italian</li>
+<li>English, Italian</li>
 </ul>
 <br>
 <p><strong>Portfolio Website</strong>: <a href="https://mignaway.github.io/portfolio">mignaway.github.io/portfolio</a></p>
