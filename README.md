@@ -6,7 +6,7 @@
 <p><strong>Skills</strong></p>
 
 <ul>
-<li>Html | Css | Javascript | Jquery | Typescript | Reactjs | Node | Express | Git | SQL</li>
+<li>Html | Css | Javascript | Jquery | Typescript | Reactjs | Node | Express | SQL | Python | Java | Git</li>
 <li>English, Italian</li>
 </ul>
 <br>
