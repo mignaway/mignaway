@@ -11,5 +11,5 @@
 <li>English, Italian</li>
 </ul>
 <br>
-<p><strong>Portfolio Website</strong>: <a href="https://mignaway.design">mignaway.design</a></p>
+<p><strong>Portfolio</strong>: <a href="https://mignaway.design">mignaway.design</a></p>
 </div>
